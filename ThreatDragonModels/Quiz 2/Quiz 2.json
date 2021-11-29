@@ -5,12 +5,6 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "title": "Simple Web Applicationn DFD",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      }
-    ]
+    "diagrams": []
   }
 }
